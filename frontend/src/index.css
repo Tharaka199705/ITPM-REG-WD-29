@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+
+
+.bg-blue{
+  background-color: #0C0435;
+}
+
+.bg-green{
+  background-color: #AAEBC9;
+}
+
+.bg-btn{
+  background-color: #7D8D83 !important;
+}
